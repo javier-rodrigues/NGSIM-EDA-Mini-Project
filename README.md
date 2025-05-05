@@ -4,7 +4,7 @@
 
 Exploratory data analysis and comparative ML analysis of Next Generation Simulation (NGSIM) Open Data from the U.S. Department of Transportation.
 
-Took a subset of an 11 million row vehicle trajectory dataset over three distinct locations to determine traffic/vehicle patterns and compare machine learning model performance in predicting next vehicle positions on a frame-by-frame basis.
+Took a subset of an 11.8 million-row vehicle trajectory dataset over three distinct locations to determine traffic/vehicle patterns and compare machine learning model performance in predicting next vehicle positions on a frame-by-frame basis.
 
 ## Data Insights ##
 
